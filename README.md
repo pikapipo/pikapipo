@@ -15,8 +15,8 @@ Building things, breaking things, and learning something new every day.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamaisseule)
-[![Profile Views](https://komarev.com/ghpvc/?username=jamaisseule&style=for-the-badge&color=556B2F&label=PROFILE+VIEWS)](https://github.com/jamaisseule)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikapipo)
+[![Profile Views](https://komarev.com/ghpvc/?username=jamaisseule&style=for-the-badge&color=556B2F&label=PROFILE+VIEWS)]([https://github.com/jamaisseule](https://wisngaan-porfolio.vercel.app/))
 
 </div>
 
