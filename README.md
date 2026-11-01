@@ -1,44 +1,28 @@
 <!--
   ✦ GITHUB PROFILE README
-  Theme: Midnight / Lavender / Minimalist
+  Theme: Moss Green / Minimalist
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:514878,100:A78BFA&height=200&section=header&text=Bello!&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Welcome%20to%20my%20little%20corner%20of%20GitHub&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34452B,50:556B2F,100:87966B&height=200&section=header&text=Bello!&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=to%20infinity%20and%20beyond&descAlignY=60&descSize=15" width="100%" />
 
-### 👋 B E L L O, I'm a Developer!
+### 👋 I'm a Software Engineer!
 
-*~ to infinity and beyond ~* 🚀
+🐾🐾🐾
 
 Building things, breaking things, and learning something new every day.
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamaisseule)
-[![Profile Views](https://komarev.com/ghpvc/?username=jamaisseule&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/jamaisseule)
+[![Profile Views](https://komarev.com/ghpvc/?username=jamaisseule&style=for-the-badge&color=556B2F&label=PROFILE+VIEWS)](https://github.com/jamaisseule)
 
 </div>
 
 ---
 
 ## ✦ A little about me
-
-```javascript
-const developer = {
-  name: "Your Name",
-  role: "Software Developer",
-  interests: [
-    "Frontend Development",
-    "Web Applications",
-    "Mobile Development",
-    "UI/UX"
-  ],
-  currentlyWorkingWith: ["React", "Next.js", "TypeScript"],
-  alsoFamiliarWith: ["C#", ".NET", "Kotlin", "Swift"],
-  motto: "To infinity and beyond!"
-};
-```
 
 - 💻 Passionate about building web and mobile applications.
 - 🎨 Enjoy creating clean, intuitive, and responsive interfaces.
@@ -77,21 +61,6 @@ const developer = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
----
-
-## ✦ GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jamaisseule&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaisseule&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jamaisseule&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=A78BFA" />
-
-</div>
 
 ---
 
@@ -103,6 +72,6 @@ const developer = {
 
 **Keep building. Keep exploring. Keep going beyond.** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:514878,100:A78BFA&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34452B,50:556B2F,100:87966B&height=100&section=footer" width="100%" />
 
 </div>
